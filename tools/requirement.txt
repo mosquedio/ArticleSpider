@@ -47,7 +47,7 @@ service-identity==18.1.0
 six==1.12.0
 tensorflow==1.0.1
 Theano==1.0.4
-Twisted==18.9.0
+Twisted==22.2.0
 unix==1.0
 urllib3==1.24.1
 w3lib==1.19.0
